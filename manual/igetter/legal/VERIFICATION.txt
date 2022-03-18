@@ -18,4 +18,5 @@ Package can be verified like this:
    SHA256: d739ef16c952979807a0419dd15206d8487d6fa510213d6b2022187b9c56890b
 
 
-The file 'LICENSE.txt' has been obtained from the iGetter installer.
+File 'LICENSE.txt' is obtained from:
+   https://cdn.jsdelivr.net/gh/presentasoftware/chocolatey-packages/manual/igetter/legal/LICENSE.txt
